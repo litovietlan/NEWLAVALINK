@@ -25,10 +25,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
       {
-      name: "GlaceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2010,
+      name: "Pranav",
+      password: "eva",
+      host: "160.191.77.60",
+      port: 10072,
       secure: false
     }
   ]
