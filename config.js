@@ -27,8 +27,8 @@ module.exports = {
       {
       name: "Lavalink",
       password: "yourpassword",
-      host: "172.96.140.62:4413",
-      port: 4413,
+      host: "172.96.140.62",
+      port: 6434,
       secure: false
     }
   ]
